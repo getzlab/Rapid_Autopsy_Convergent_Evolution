@@ -167,3 +167,12 @@ MGH1045	death	3105	0
 MGH1113	death	3721	0
 MGH2542	death	8651	905
 MGH2542	start	29	-7717
+MGH1558	death	4873	978
+MGH1558	start	70	-3825
+MGH1558	blood_biopsy	3893	-2
+MGH1558	blood_biopsy	3993	98
+MGH1558	blood_biopsy	4077	182
+MGH1558	blood_biopsy	4105	210
+MGH1558	blood_biopsy	4134	239
+MGH1558	blood_biopsy	4802	907
+MGH1558	blood_biopsy	4872	977
