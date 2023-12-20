@@ -40,19 +40,12 @@ MGH1326	blood_biopsy	1994	422
 MGH1326	blood_biopsy	2015	443
 MGH1326	blood_biopsy	2068	496
 MGH1045	blood_biopsy	2694	-411
-MGH1045	blood_biopsy	2722	-383
 MGH1045	blood_biopsy	2750	-355
-MGH1045	blood_biopsy	2778	-327
 MGH1045	blood_biopsy	2806	-299
-MGH1045	blood_biopsy	2834	-271
-MGH1045	blood_biopsy	2863	-242
-MGH1045	blood_biopsy	2883	-222
 MGH1045	blood_biopsy	2918	-187
-MGH1045	blood_biopsy	2946	-159
 MGH1045	blood_biopsy	2971	-134
 MGH1045	blood_biopsy	2999	-106
 MGH1045	blood_biopsy	3017	-88
-MGH1045	blood_biopsy	3105	0
 MGH1002	pre	9698	-2
 MGH1002	post	9951	251
 MGH1078	death	6655	90
@@ -155,6 +148,7 @@ MGH1112	pre	1877	-253
 MGH1112	post	2283	153
 MGH1173	pre	1283	-20
 MGH1173	post	1592	289
+MGH1328	pre	6384	-33
 MGH1328	post	6614	197
 MGH1573	death	2962	1436
 MGH1573	start	13	-1513
