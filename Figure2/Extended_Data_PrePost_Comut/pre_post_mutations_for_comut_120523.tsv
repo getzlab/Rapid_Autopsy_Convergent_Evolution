@@ -11,8 +11,8 @@ MGH0001_9	TP53	In_Frame_Del
 MGH0002_1	KMT2C	baseline
 MGH0002_1	PTEN	baseline
 MGH0002_1	RB1	baseline
-MGH0003-1	PIK3CA	Missense_Mutation
-MGH0003-1	PIK3CA	Missense_Mutation
+MGH0003_1	PIK3CA	Missense_Mutation
+MGH0003_1	PIK3CA	Missense_Mutation
 MGH0003_1	PTEN	baseline
 MGH0003_1	KMT2C	baseline
 MGH0003_1	RB1	baseline
