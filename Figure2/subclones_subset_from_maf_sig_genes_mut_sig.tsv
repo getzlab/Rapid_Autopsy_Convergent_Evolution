@@ -1,0 +1,194 @@
+sample	category	Protein_change	value
+MGH1002_20	ESR1	p.D538G	Missense_Mutation
+MGH1002_19	ESR1	p.Y537N	Missense_Mutation
+MGH1326_cfDNA_high_purity_2	ESR1	p.Y537S	Missense_Mutation
+MGH1644_3	ESR1	p.L536H	Missense_Mutation
+MGH1644_6	ESR1	p.Y537N	Missense_Mutation
+MGH1035_7	ESR1	p.Y537N	Missense_Mutation
+MGH1035_4	ESR1	p.D538G	Missense_Mutation
+MGH1035_8	ESR1	p.V422del	InFrame
+MGH1113_2	ESR1	p.Y537S	Missense_Mutation
+MGH1326_cfDNA_high_purity_2	KMT2C	p.K1396*	LOF
+MGH1326_cfDNA_high_purity_9	KMT2C	p.E713fs	LOF
+MGH1547_16	KMT2C	p.R2589K	Missense_Mutation
+MGH1547_15	KMT2C	p.M1895I	Missense_Mutation
+2389_multiple_6_5	KMT2C	NaN	LOF
+2389_multiple_6_5	KMT2C	p.S1480L	Missense_Mutation
+2389_multiple_6_22	KMT2C	p.E3745*	LOF
+2389_multiple_6_4	KMT2C	p.S4050*	LOF
+2389_multiple_6_12	KMT2C	p.E2107*	LOF
+2389_multiple_6_19	KMT2C	p.Q2301*	LOF
+2389_multiple_6_7	KMT2C	p.E2793*	LOF
+2389_multiple_6_17	KMT2C	p.H252Y	Missense_Mutation
+2389_multiple_6_21	KMT2C	p.Q1218E	Missense_Mutation
+2389_multiple_6_21	KMT2C	p.E2775*	LOF
+2389_multiple_6_20	KMT2C	p.E1748*	LOF
+2542_hapaseg_kristy_tool_v5_12	KMT2C	p.D3090Y	Missense_Mutation
+2542_hapaseg_kristy_tool_v5_12	KMT2C	p.Q2054*	LOF
+2542_hapaseg_kristy_tool_v5_2	KMT2C	p.R907Q	Missense_Mutation
+2542_hapaseg_kristy_tool_v5_15	KMT2C	p.Q264H	Missense_Mutation
+1558_all_11	KMT2C	p.S187*	LOF
+MGH1002_12	TP53	p.D281H	Missense_Mutation
+MGH1002_22	TP53	p.Q375*	LOF
+MGH1598_7	TP53	p.H178Q	Missense_Mutation
+MGH1045_3	TP53	p.T125T	LOF
+MGH1547_4	TP53	p.254_	InFrame
+1558_all_12	TP53	p.C176F	Missense_Mutation
+MGH1002_22	KRAS	p.Q61H	Missense_Mutation
+MGH1598_6	KRAS	p.G12D	Missense_Mutation
+MGH2974_4	KRAS	p.G12V	Missense_Mutation
+MGH1002_22	PIK3CA	p.E135Q	Missense_Mutation
+MGH1002_22	PIK3CA	p.E726K	Missense_Mutation
+MGH1326_cfDNA_high_purity_13	PIK3CA	p.N345I	Missense_Mutation
+2542_hapaseg_kristy_tool_v5_8	PIK3CA	p.Q859K	Missense_Mutation
+1558_all_2	PIK3CA	p.E542K	Missense_Mutation
+1558_all_12	PIK3CA	p.M1004I	Missense_Mutation
+MGH1547_15	HIST1H3B	p.E106K	Missense_Mutation
+2389_multiple_6_10	HIST1H3B	p.E106K	Missense_Mutation
+MGH1002_10			
+MGH1002_13			
+MGH1002_15			
+MGH1002_11			
+MGH1002_5			
+MGH1002_6			
+MGH1002_21			
+MGH1002_22			
+MGH1002_20			
+MGH1002_12			
+MGH1002_19			
+MGH1002_17			
+MGH1002_16			
+MGH1002_3			
+MGH1002_8			
+MGH1002_14			
+MGH1078_5			
+MGH1078_2			
+MGH1078_6			
+MGH1078_3			
+MGH1078_4			
+MGH1326_cfDNA_high_purity_10			
+MGH1326_cfDNA_high_purity_13			
+MGH1326_cfDNA_high_purity_2			
+MGH1326_cfDNA_high_purity_3			
+MGH1326_cfDNA_high_purity_9			
+MGH1326_cfDNA_high_purity_7			
+MGH1326_cfDNA_high_purity_12			
+MGH1326_cfDNA_high_purity_6			
+MGH1326_cfDNA_high_purity_5			
+MGH1326_cfDNA_high_purity_8			
+MGH1534_no_norm_4			
+MGH1534_no_norm_2			
+MGH1534_no_norm_5			
+MGH1534_no_norm_3			
+MGH1547_2			
+MGH1547_6			
+MGH1547_10			
+MGH1547_3			
+MGH1547_13			
+MGH1547_8			
+MGH1547_9			
+MGH1547_5			
+MGH1547_15			
+MGH1547_12			
+MGH1547_16			
+MGH1547_14			
+MGH1598_2			
+MGH1598_8			
+MGH1598_5			
+MGH1598_10			
+MGH1598_4			
+MGH1598_3			
+MGH1598_7			
+MGH1598_6			
+MGH1644_7			
+MGH1644_3			
+MGH1644_8			
+MGH1644_2			
+MGH1644_6			
+MGH2819_6			
+MGH2819_10			
+MGH2819_9			
+MGH2819_8			
+MGH2819_4			
+MGH2819_11			
+MGH2819_5			
+MGH2819_2			
+MGH2819_7			
+MGH2819_12			
+MGH2974_2			
+MGH2974_9			
+MGH2974_4			
+MGH2974_6			
+MGH2974_3			
+MGH2974_8			
+MGH2974_5			
+MGH1035_5			
+MGH1035_3			
+MGH1035_10			
+MGH1035_7			
+MGH1035_4			
+MGH1035_6			
+MGH1035_9			
+MGH1035_8			
+MGH1113_13			
+MGH1113_2			
+MGH1113_5			
+MGH1113_3			
+MGH1113_10			
+MGH1113_12			
+MGH1113_11			
+MGH1113_8			
+MGH1045_9			
+MGH1045_3			
+MGH1045_16			
+MGH1045_14			
+MGH1045_7			
+MGH1045_13			
+MGH1045_4			
+MGH1045_10			
+MGH1045_15			
+MGH1045_6			
+MGH1045_11			
+MGH1045_12			
+2389_multiple_6_5			
+2389_multiple_6_3			
+2389_multiple_6_16			
+2389_multiple_6_18			
+2389_multiple_6_4			
+2389_multiple_6_6			
+2389_multiple_6_14			
+2389_multiple_6_15			
+2389_multiple_6_13			
+2389_multiple_6_11			
+2389_multiple_6_10			
+2389_multiple_6_7			
+2389_multiple_6_12			
+2389_multiple_6_9			
+2389_multiple_6_17			
+2542_hapaseg_kristy_tool_v5_12			
+2542_hapaseg_kristy_tool_v5_10			
+2542_hapaseg_kristy_tool_v5_15			
+2542_hapaseg_kristy_tool_v5_17			
+2542_hapaseg_kristy_tool_v5_16			
+2542_hapaseg_kristy_tool_v5_18			
+2542_hapaseg_kristy_tool_v5_14			
+2542_hapaseg_kristy_tool_v5_3			
+2542_hapaseg_kristy_tool_v5_9			
+2542_hapaseg_kristy_tool_v5_6			
+2542_hapaseg_kristy_tool_v5_4			
+2542_hapaseg_kristy_tool_v5_7			
+2542_hapaseg_kristy_tool_v5_2			
+2542_hapaseg_kristy_tool_v5_13			
+2542_hapaseg_kristy_tool_v5_8			
+2542_hapaseg_kristy_tool_v5_19			
+2542_hapaseg_kristy_tool_v5_11			
+1558_all_3			
+1558_all_6			
+1558_all_2			
+1558_all_5			
+1558_all_12			
+1558_all_8			
+1558_all_11			
+1558_all_10			
+1558_all_7			
+1558_all_9			
